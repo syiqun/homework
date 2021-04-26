@@ -4,7 +4,7 @@
 
 ![查看另一个文件请点击这里](https://github.com/syiqun/homework/blob/main/README.md)
 
-![吉大官网](https://www.jlu.edu.cn/)
+![吉大官网](http://www.jlu.edu.cn/)
 
 ## 这是网页图片
 
